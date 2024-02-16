@@ -9,4 +9,8 @@ elif maths < 70:
 else:
     print("maths is either equal to 70 or less")
 
+if not maths > 60:
+    print("test")
+
+
 

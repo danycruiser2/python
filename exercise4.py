@@ -37,3 +37,18 @@ if average >= 71 and average <= 100:
 
 elif average < 0:
     print("invalid negative marks")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
